@@ -89,7 +89,10 @@ a:hover {
     left: 0;
     right: 0;
 }
-
+.keywords{
+    color:#cccccc;
+    font-size:1px;
+}
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
